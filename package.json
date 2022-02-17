@@ -1,0 +1,27 @@
+{
+  "name": "xstate-test-unwanted-transition-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devessier/xstate-test-unwanted-transition-repro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devessier/xstate-test-unwanted-transition-repro/issues"
+  },
+  "homepage": "https://github.com/Devessier/xstate-test-unwanted-transition-repro#readme",
+  "dependencies": {
+    "@xstate/test": "^0.5.1",
+    "xstate": "4.28.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.18"
+  }
+}
